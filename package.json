@@ -62,7 +62,7 @@
     "@eslint/markdown": "^6.2.2",
     "@types/node": "^22.0.0",
     "@typescript-eslint/eslint-plugin": "^8.26.0",
-    "@typescript-eslint/parser": "^8.26.0",
+    "@typescript-eslint/parser": "^8.35.0",
     "assert-diff": "^3.0.2",
     "benchmark": "^2.1.4",
     "c8": "^10.1.1",
